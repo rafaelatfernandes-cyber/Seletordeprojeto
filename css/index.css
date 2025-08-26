@@ -24,10 +24,6 @@
     color:#f3c8ff;
 }
 
-.corPreto a:focus{
-    color: orangered;
-}
-
 body{
     overflow-x: hidden;
 }
